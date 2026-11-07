@@ -200,7 +200,7 @@ p.note { display: none; }
 <h2><span class="yellow">12.7Vほど出ているので、まあまあ良い感じ</span></h2>
 <a href="20261107_00010.jpeg" target="_blank"><img src="20261107_00010.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">冬に備えてちょい充電、チャージャーが無いので無線機用の安定化電源を使います、こちら家での電圧チェックでも12Vちょい</span></h2>
+<h2><span class="yellow">冬に備えてちょい充電、チャージャーが無いので無線機用の安定化電源を使います、こちらでの電圧チェックでも12Vちょい</span></h2>
 <a href="20261107_00011.jpeg" target="_blank"><img src="20261107_00011.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">電源入れて13.8V狙いで電圧かけます</span></h2>
